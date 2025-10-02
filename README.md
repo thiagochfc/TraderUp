@@ -2,7 +2,7 @@
 
 An extension to up the achievement experienced trader in Habbo.
 
-![Achievement](.\docs\achievement_image.png)
+![Achievement](https://raw.githubusercontent.com/thiagochfc/TraderUp/refs/heads/main/docs/achievement_image.png)
 
 ## Dependencies
 
@@ -12,11 +12,11 @@ An extension to up the achievement experienced trader in Habbo.
 
 ### Extension
 
-![Extension](.\docs\extension_running.gif)
+![Extension](https://github.com/thiagochfc/TraderUp/blob/main/docs/extension_running.gif)
 
 ### Habbo
 
-![Habbo](.\docs\habbo_running.gif)
+![Habbo](https://github.com/thiagochfc/TraderUp/blob/main/docs/habbo_running.gif)
 
 **Observation: You need to have two processes open to run this extension, otherwise the first open process will wait indefinitely.**
 
