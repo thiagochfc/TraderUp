@@ -1,0 +1,3 @@
+[submodule "lib/xabbo-core"]
+	path = lib/xabbo-core
+	url = https://github.com/thiagochfc/xabbo-core
